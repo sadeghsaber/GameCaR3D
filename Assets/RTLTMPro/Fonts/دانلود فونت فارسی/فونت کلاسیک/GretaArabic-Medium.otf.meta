@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 693e0a06422f97945aa23fd7baef37d4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Greta Arabic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 04e831c42d46b534ca1474bdd11ee98e, type: 3}
+  - {fileID: 12800000, guid: 20420f84f9c14f84e903dc165ca80777, type: 3}
+  - {fileID: 12800000, guid: f3d1eb011c073704eb81a807c5e46b25, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

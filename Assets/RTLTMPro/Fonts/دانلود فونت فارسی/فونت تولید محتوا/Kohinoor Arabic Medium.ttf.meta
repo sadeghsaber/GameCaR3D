@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: be6dc2f2e1e2eab4987a0d067f4ab2dc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kohinoor Arabic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1b6e86109542771428010e749cdd6694, type: 3}
+  - {fileID: 12800000, guid: 5e15ae43f953f99488dc1608abc8fb95, type: 3}
+  - {fileID: 12800000, guid: a59929d9c25e63543b0a775e8525439a, type: 3}
+  - {fileID: 12800000, guid: dd58050de4bb938458475073b3821943, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

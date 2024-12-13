@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: bbcba52453e2518459f884a28dbd9a3c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Estedad
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c01917430228f924ba67c30a66f103c3, type: 3}
+  - {fileID: 12800000, guid: 810d063e93390f14d8f400e06ea0f72a, type: 3}
+  - {fileID: 12800000, guid: 154d0cad5e725ba4eb1f4347742d303e, type: 3}
+  - {fileID: 12800000, guid: 4289498924816d74c82175a60442f428, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

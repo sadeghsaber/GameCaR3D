@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8fe265e527e16ab4c9640dc4cec820c4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Palatino Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7479ede10e8e7474c93211c8b7c5f0c9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

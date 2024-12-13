@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 59831d1de7e99e1419870309fabb6af6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kufyan Arabic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 04abca3520882df4ba1cc71d3fa9be8f, type: 3}
+  - {fileID: 12800000, guid: 324dfd71bb9047c43bde0f2f11810b82, type: 3}
+  - {fileID: 12800000, guid: 92acd87a8193e6343b282dd54ff9d40a, type: 3}
+  - {fileID: 12800000, guid: 109930faee31ac241be047aa6f33328c, type: 3}
+  - {fileID: 12800000, guid: 14863a1eb7ed0934abb804411917b167, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

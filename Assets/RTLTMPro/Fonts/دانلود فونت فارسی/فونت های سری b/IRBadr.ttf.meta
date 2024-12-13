@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 642429fc7398eee42bdc48d2d7d2cff9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - IRBadr
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 720e60fa7e52cda4d93fd5d953339fd6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

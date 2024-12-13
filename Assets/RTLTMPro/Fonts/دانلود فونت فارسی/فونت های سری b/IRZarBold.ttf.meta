@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bb013a8539a353048abf5204cf85e5b6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - IRZar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20e8fd7e97b3ffc458edbec4c3ea2e9c, type: 3}
+  - {fileID: 12800000, guid: 4038ba0afda485e4b9f786590f5f741d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
